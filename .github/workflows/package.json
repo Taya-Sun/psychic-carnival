@@ -1,0 +1,20 @@
+{
+  "name": "ai-assist",
+  "version": "1.0.0",
+  "description": "A modular AI Assistant function for apps: chat, summarize, sentiment, FAQ, and more.",
+  "main": "dist/aiAssist.js",
+  "types": "dist/aiAssist.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/aiAssist.js",
+    "dev": "ts-node src/aiAssist.ts",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": ["ai", "assistant", "typescript", "summarizer", "sentiment", "faq", "translator"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.0",
+    "ts-node": "^10.9.2"
+  }
+}
