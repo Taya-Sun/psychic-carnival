@@ -1,2 +1,2 @@
-# psychic-carnival
+# magic-mayhem
 All in one AI assistant 
